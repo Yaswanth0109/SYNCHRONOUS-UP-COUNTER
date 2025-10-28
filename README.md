@@ -58,9 +58,5 @@ endmodule
 
 **TRUTH TABLE**
 <img width="544" height="275" alt="image" src="https://github.com/user-attachments/assets/5fe6bf55-550b-419a-adff-051b310bbb9e" />
-RESULTS
-
-Thus the Synchronous 3 bit Up counter is implemeted and verified.
-
-
 **RESULTS**
+Thus the Synchronous 3 bit Up counter is implemeted and verified.
